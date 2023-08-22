@@ -1,3 +1,3 @@
 # react-auth-app
 
-> Blueprint for creating a React application with authentication features, such as registrations, signing in, signing out, and checking if a user is logged in via http only cookies provided by a Rails API app.
+> Plano para crear una aplicación React con funciones de autenticación, como registros, inicio de sesión, cierre de sesión y verificación de si un usuario inició sesión a través de cookies solo http proporcionadas por una aplicación Rails API.
